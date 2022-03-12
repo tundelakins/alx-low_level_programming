@@ -1,1 +1,1 @@
-Lowercase alphabet
+Prints Lowercase followed by Uppercase
