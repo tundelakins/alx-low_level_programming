@@ -1,1 +1,1 @@
-Digits 0 to 9
+Hexadecimal
