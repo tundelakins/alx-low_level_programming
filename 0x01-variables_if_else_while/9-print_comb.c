@@ -11,18 +11,26 @@
 	{
 		int ch;
 
-		ch = '0';
+		ch = 0;
 
-		while (ch <= '9')
+		while (ch < 10)
 
 			{
-			putchar(ch);
+
+			putchar(48 + ch);
+			if (ch != 9)
+			{
+
+
+			putchar(',');
+			putchar(' ');
+
+
+			}
 
 			ch++;
 
-			putchar(',');
 
-			putchar('\t');
 
 			}
 
