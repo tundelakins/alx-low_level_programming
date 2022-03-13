@@ -1,1 +1,1 @@
-Hexadecimal
+Combinattions of single digits
