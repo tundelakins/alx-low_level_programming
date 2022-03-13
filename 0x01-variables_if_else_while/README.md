@@ -1,1 +1,1 @@
-Print
+Exclude q and e
