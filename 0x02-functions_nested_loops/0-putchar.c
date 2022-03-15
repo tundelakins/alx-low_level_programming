@@ -1,18 +1,31 @@
 #include <stdio.h>
-
+#include "main.h"
 
 /**
- * main - Entry Point
+ * main - Function main entry
  *
- * Return: Always zero (0)
+ * This program prints _putchar followes by a newline
+ *
+ * Return: Always zero (Succes)
  */
-
 
 	int main(void)
 
 	{
 
-	printf("%s\n", "_putchar");
+		char s[9] = "_putchar";
+		int i = 0;
 
-	return (0);
+		while (i < 8)
+		{
+
+			_putchar(s[i]);
+			i++;
+
+		}
+		_putchar('\n');
+
+		return (0);
+
 	}
+

@@ -1,1 +1,1 @@
-This program prints _putchar followed by a new line
+This program prints _putchar followed by a newline
