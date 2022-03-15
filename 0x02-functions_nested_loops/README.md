@@ -1,1 +1,1 @@
-This program prints _putchar followed by a newline
+This function prints english alphabets followed by a newline
