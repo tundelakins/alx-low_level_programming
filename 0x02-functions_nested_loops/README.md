@@ -1,1 +1,1 @@
-This function prints english alphabets followed by a newline
+This function checks for a lowercase character followed by a newline
