@@ -1,1 +1,1 @@
-This function prints every minutes of the day of Jack Bauer followed by a newline
+This function adds two integer and returns the results followed by a newline
