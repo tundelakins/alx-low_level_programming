@@ -1,1 +1,1 @@
-This function prints the last digit of a number followed by a newline
+This function prints every minutes of the day of Jack Bauer followed by a newline
