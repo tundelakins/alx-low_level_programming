@@ -1,1 +1,1 @@
-This function adds two integer and returns the results followed by a newline
+This function prints all natural numbers from n to 98 followed by a newline
