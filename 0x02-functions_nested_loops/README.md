@@ -1,1 +1,1 @@
-This function checks for a lowercase character followed by a newline
+This function checks for alphabetic character followed by a newline
