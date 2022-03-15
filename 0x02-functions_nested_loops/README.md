@@ -1,1 +1,1 @@
-This function prints the sign of a number followed by a newline
+This function computes the absolute value of an integer followed by a newline
