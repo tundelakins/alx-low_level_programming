@@ -1,1 +1,1 @@
-This function prints the n times table starting from 0 followed by a newline
+This program computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line
