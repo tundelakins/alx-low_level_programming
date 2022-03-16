@@ -1,1 +1,1 @@
-This program finds and prints the sum of the even-valued terms followed by a new line
+This program prints the first 50 Fibonacci numbers, starting with 1 and 2 followed by a new line
