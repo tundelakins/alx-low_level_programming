@@ -14,10 +14,11 @@
 		c = 0;
 		while (c < n)
 		{
-		_putchar(95);
 
-		c++;
+			_putchar(95);
+
+			c++;
 		}
-		
+
 		_putchar(10);
 	}
