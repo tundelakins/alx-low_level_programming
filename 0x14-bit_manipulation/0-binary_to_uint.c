@@ -4,7 +4,7 @@
  * @b: the binary number in string format
  * Description: convert binary to decimal
  * section header: the header of this function is header.h
- * Return: this return the convert number.
+ * Return: this return the convert number
  */
 
 unsigned int binary_to_uint(const char *b)
